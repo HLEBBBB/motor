@@ -1,0 +1,14 @@
+.main {
+  background-color: cornflowerblue;
+  width: 720px;
+  heigth: 720px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 90px;
+}
+.main .button1 {
+  color: aqua;
+  width:180px;
+  width:190px;
+}
